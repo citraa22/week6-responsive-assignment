@@ -1,5 +1,5 @@
 # week6-responsive-assignment
-# Homepage Teknik Mesin, Elektro, dan Sipil
+# Homepage Teknik Mesin, Sistem Informasi, dan Sipil
 
 ## 🧑‍🎓 Identitas Mahasiswa
 **Nama:** Maria Citra  
