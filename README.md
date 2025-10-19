@@ -13,7 +13,7 @@
 ---
 
 ## Deskripsi Singkat
-Proyek ini membuat halaman utama responsif untuk jurusan **Teknik Mesin, Sistem informasi, dan Sipil** menggunakan **HTML5** dan **CSS3** agar tampilan menyesuaikan di berbagai perangkat.
+Proyek ini membuat halaman utama responsif untuk jurusan **Teknik Mesin, Sistem informasi, dan Sipil** menggunakan **HTML** dan **CSS** agar tampilan menyesuaikan di berbagai perangkat.
 
 ---
 
