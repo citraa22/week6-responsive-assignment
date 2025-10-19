@@ -51,14 +51,14 @@ nav a:hover {
 }
 .btn {
   display: inline-block;
-  background-color: #ffcc00;
+  background-color: #4bb998;
   color: #003366;
   padding: 10px 20px;
   border-radius: 5px;
   text-decoration: none;
 }
 .btn:hover {
-  background-color: #ffd633;
+  background-color: #4bb998;
 }
 main {
   padding: 40px 20px;
